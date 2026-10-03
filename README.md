@@ -8,7 +8,7 @@ Take the dataset from the Kaggle link below:
 
 https://www.kaggle.com/datasets/shree1992/housedata/data
 
-The dataset used in this project is the House Sales dataset from Kaggle. The file is named `data.csv` in this project folder.
+The dataset used in this project is the House Sales dataset from Kaggle. Save the file as `data.csv` in the HousePriceExtimation folder.
 
 The dataset contains property information such as:
 - price
@@ -86,4 +86,4 @@ The following model evaluation results were obtained from the project dataset af
 
 ## Author
 
-House Price Estimation Project
+Aditya Prakash
